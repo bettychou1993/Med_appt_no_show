@@ -3,4 +3,4 @@ Build predictive models to predict whether the patients will not show up to thei
 
 
 # Approaches
-I did the exploratory data analysis first, followed by machine learning models in different versions.
+I did the exploratory data analysis first, followed by feature selection and machine learning models (Random Forest, GB Classifier) in different versions. The differences between these model versions are SMOTE and Under Sampling. 
